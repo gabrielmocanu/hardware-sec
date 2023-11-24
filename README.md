@@ -20,8 +20,8 @@ Each activity will develop your practical skills and help you get a better under
 
 Activities come in two forms:
 
-* **tutorials**: that provide a step-by-step detailing of the solution.
-* **challenges**: that only state the goal and provide an initial skeleton (and maybe some hints), then the rest is up to you.
+- **tutorials**: that provide a step-by-step detailing of the solution.
+- **challenges**: that only state the goal and provide an initial skeleton (and maybe some hints), then the rest is up to you.
   Even so, challenge activity folders store the reference solution for you to take a sneak peak in case you're lost.
 
 ## Support
@@ -42,9 +42,9 @@ There will be tasks to use the described features, but breaking them requires a 
 
 ## Sessions
 
-* [Hardware Computing](hardware-computing/README.md)
-* [Hardware Isolation](hardware-isolation/README.md)
-* [Trusted Execution Environments](trusted-execution-environments/README.md)
+- [Hardware Computing](hardware-computing/README.md)
+- [Hardware Isolation](hardware-isolation/README.md)
+- [Trusted Execution Environments](trusted-execution-environments/README.md)
 
 There is also a folder, `helpers`, that contains information about topics that are not the subject of this track, but are needed to understand some of the concepts described here.
 If you are unsure about you knowledge, or want some reminders while going through the sessions, feel free to read the helpers.
@@ -54,17 +54,17 @@ Where needed, practical work items may be included.
 
 A session folder consists of:
 
-* `README.md`: session contents, written in [GitHub Markdown](https://guides.github.com/features/mastering-markdown/)
-* `activities/`: each activity has its own folder with support files (including the reference solution)
-* `assets/`: support files for session contents (images, diagrams, code snippets, packet captures, etc.)
-* `slides/`: session slides
+- `README.md`: session contents, written in [GitHub Markdown](https://guides.github.com/features/mastering-markdown/)
+- `activities/`: each activity has its own folder with support files (including the reference solution)
+- `assets/`: support files for session contents (images, diagrams, code snippets, packet captures, etc.)
+- `slides/`: session slides
 
 ### Activity Folder Structure
 
 An activity folder consists of:
 
-* `public/`: support files for the activity: binary files, helper scripts, packet captures etc.
-* `sol/`: the reference solution of the activity.
+- `public/`: support files for the activity: binary files, helper scripts, packet captures etc.
+- `sol/`: the reference solution of the activity.
   Tutorial activities feature a `README.md` file in the solution folder, with a detailing of the solution.
 
 ## Contributing
